@@ -5,7 +5,7 @@
         <div class="col-lg-7 col-xs-12">
           <div class="ph_caption">
             <span> Creative Photographey </span>
-            <h1>Photography Make us happy Take a shot.</h1>
+            <h1>Photography Make us happy Take a shotes</h1>
             <button class="btn" type="button">
               <a href="http://" target="_blank" rel="noopener noreferrer">
                 MY Portfolio</a
