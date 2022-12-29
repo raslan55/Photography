@@ -1,8 +1,11 @@
 {
+  "homepage": "https://github.com/raslan55/Photography",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prepublish": "npm run build",
+    "publish": "gh-pages -d build",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
